@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home";
+import Home from "./components/home";
 import About from "./components/About";
 import Qualification from "./components/Qualification";
 import Experience from "./components/Experience";
