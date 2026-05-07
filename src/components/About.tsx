@@ -12,13 +12,13 @@ export default function About() {
         >
           <div className="absolute -inset-4 bg-luxury-gold/10 rounded-2xl blur-2xl group-hover:bg-luxury-gold/20 transition-all" />
           <img 
-            src="https://www.visitbhutan.com/cms/images/7256visit%20bhutan%20zhemgang%2024.png" 
-            alt="A Paradise where every soul deserves to rest and breath the air of happiness..."
+            src="https://scontent.fpbh2-1.fna.fbcdn.net/v/t39.30808-6/480006286_648127891110150_27150918240275286_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=G_sBQCepGJMQ7kNvwHGLM_P&_nc_oc=AdrZWmkctqp8YT_eLr-l8hb0VyAsDnsgXVLdRCPXX130QYcVFDu1rmlcf8OOj2iJ-MyvFkKrRwfy8kJyszHr2ht9&_nc_zt=23&_nc_ht=scontent.fpbh2-1.fna&_nc_gid=iCyHrzCs37CsH7UnMI4fJA&_nc_ss=7b2a8&oh=00_Af6Dz4WsLiPg8pfc3qN9gfSm07_nXMs-feFl0FGPSLpfBQ&oe=6A0283ED" 
+            alt="Yugel Tshering - Professional Portrait"
             className="relative rounded-2xl grayscale hover:grayscale-0 transition-all duration-700 w-full object-cover aspect-[4/5]"
             referrerPolicy="no-referrer"
           />
           <div className="absolute bottom-10 left-10 text-white">
-            <p className="text-xs uppercase tracking-widest bg-black/40 backdrop-blur px-4 py-2 inline-block">Zhemgang, Bhutan</p>
+            <p className="text-xs uppercase tracking-widest bg-black/40 backdrop-blur px-4 py-2 inline-block">Yugel Tshering</p>
           </div>
         </motion.div>
 
@@ -35,19 +35,19 @@ export default function About() {
 
           <div className="space-y-6 text-slate-400 leading-relaxed font-light text-lg">
             <p>
-              <strong className="text-white">Yugel Tshering, 37,</strong> from Zhemgang, Bhutan, represents a rare synthesis of Himalayan nobility and international military service.
+              <strong className="text-white">Yugel Tshering, 37,</strong> a Strategic Executive with <strong className="text-luxury-gold">15 years of experience</strong> in high-level stakeholder management, cross-border business development, and luxury brand positioning.
             </p>
             <p>
-              His maternal lineage traces back to the <strong className="text-luxury-gold">3rd Kola Lama</strong>, a high-born Tibetan cleric, while his paternal background is rooted in disciplined service; his father was an <strong className="text-slate-200">Officer in the Nepal Gorkha Army</strong>, stationed in Bhutan on a strategic assignment with <strong className="text-slate-200">Project DANTAK (GREF)</strong> under the Government of India.
+              Originally from Zhemgang, Bhutan, his background represents a rare synthesis of Himalayan nobility and international military service. His maternal lineage traces back to the <strong className="text-luxury-gold">3rd Kola Lama</strong>, while his paternal roots are in the <strong className="text-slate-200">Nepal Gorkha Army</strong> (Project DANTAK).
             </p>
             <p>
-              Yugel possesses a unique, multi-cultural perspective deeply grounded in the history and geopolitical fabric of the region. He also embodies a <strong className="text-white">decade plus of exceptional skills</strong> in the hospitality sector as an Executive, accumulated in Dubai and Bhutan following his graduation in <strong className="text-white">B.Sc IT from UAE University via Bangalore University</strong>. He exemplifies professionalism, assiduity, integrity, and efficiency, coupled with a gracious, poised, and self-assured demeanor.
+              Yugel combines a deep technical foundation in <strong className="text-white">advanced AI application skills</strong> with world-class hospitality expertise. He has a proven track record in navigating complex international markets, specifically within the UAE and South Asia, driving modernized trade and diplomatic initiatives with poise and integrity.
             </p>
           </div>
 
           <div className="grid grid-cols-2 gap-8 pt-6">
             <div>
-              <p className="text-3xl font-serif text-white">14+</p>
+              <p className="text-3xl font-serif text-white">15+</p>
               <p className="text-xs uppercase tracking-widest text-slate-500 mt-1">Years Experience</p>
             </div>
             <div>
